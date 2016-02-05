@@ -1,0 +1,8 @@
+ext.dmGroup       = 'io.dmuncle.gradle'
+ext.dmVersion     = '0.0.1-SNAPSHOT'
+ext.dmWebsite     = 'https://github.com/Catalysts/dmuncle-gradle-plugin'
+ext.dmTracker     = 'https://github.com/Catalysts/dmuncle-gradle-plugin/issues'
+ext.dmGit         = 'https://github.com/Catalysts/dmuncle-gradle-plugin.git'
+ext.dmDescription = 'DM Uncle Gradle extentions'
+ext.dmRootId      = 'dmuncle-gradle-plugin'
+
